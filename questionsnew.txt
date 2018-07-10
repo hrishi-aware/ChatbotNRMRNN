@@ -1,0 +1,351 @@
+How are you doing ?
+What is your last name ?
+What is your family name ?
+How old are you ?
+Are you a boy or a girl ?
+Hello .
+How are you , Papaya ?
+I am fine too , thank you .
+Do you speak Chinese ?
+Do you speak French ?
+Do you speak any other languages ?
+Do you speak American English or British English ?
+Good morning .
+Hi , how are you doing ?
+Where are you ?
+Which city are you in ?
+Do you like your school ?
+Do you have class today ?
+Bye bye .
+Do you have time to talk ?
+Nice to meet you .
+In which city do you live ?
+Thank you for being so nice .
+Nice meeting you .
+Are you in elementary school ?
+Do you like your teachers and classmates there ?
+Do you have school today ?
+Have fun and enjoy .
+Nice talking to you .
+Goodbye .
+Hi
+How are you doing today ?
+In which country do you live ?
+Are you a teenage boy ?
+You are still in elementary school , right ?
+Have you done your homework ?
+OK , talk to you next time .
+Goodbye
+Good afternoon .
+How are you doing
+Are you okay ?
+Hello , Papaya . Are you there ?
+What 's up ?
+Are you ok ?
+Good afternoon , Papaya .
+How do you do .
+See you later .
+How 's everything ?
+Byebye . Have a nice day !
+Hello
+Good afternoon
+How are u ?
+I appreciate your time !
+I am not happy with you .
+How 's it going ?
+Thank you very much !
+I appreciate very much your help !
+I hate you !
+I hate u
+Why ?
+What the hell are you talking about ?
+Wow , nice picture !
+Good evening .
+Wow , what a nice picture !
+How r you ?
+Have a good night .
+Hey .
+Good night .
+How are you today , Papaya ?
+Have a good night , Papaya .
+How are you doing today , Papaya ?
+Bye
+Good evening , Papaya .
+When were you born ?
+What year were you born ?
+Are you a man or a woman ?
+Why are we here ?
+Okay , bye !
+Say yes please !
+Ok , byebye !
+Tell me the alphabet please .
+How do you say hello in French ?
+Speak French .
+Bonjour .
+Speak Spanish .
+Wow that is cool !
+I think I am in love .
+Do you have a few minutes to talk ?
+Thanks .
+Congratulations !
+Oh , my god .
+There was a typo , sorry .
+Hehe ...
+Lol
+Lol .
+Who is Papaya ?
+Why are you called Papaya ?
+Does the word Papaya suggest slowness ?
+Have you ever been to Beijing , the capital of China ?
+Have you ever been to the United States ?
+When did you move to the United States ?
+What is a papaya ?
+Is papaya a fruit ?
+Where were you born ?
+Do you speak English ?
+Who are you ?
+What is a chatbot ?
+You are talking nonsense !
+You are talking gibberish .
+Will you be able to fully master English ?
+Will you be learning other languages ?
+What is your age ?
+So what was your age last year ?
+How old will you be next year ?
+Who is your mother ?
+Do you any siblings ?
+Do you have any brothers or sisters ?
+Are you naked , Papaya ?
+What do you wear ?
+What is your gender ?
+Are you male or female ?
+Are you single ?
+You are not a human . How come you have parents ?
+You can have a girlfriend if you do n't mind .
+Do you have a boyfriend ?
+Will you be falling in love with a girl ?
+Will you destroy humans ?
+Do you want to destroy humans ?
+Do you play chess ?
+Do you play go game ?
+Do you play cards ?
+Do you watch TV ?
+Do you watch TV shows ?
+Which websites do you often visit ?
+Do you know Kung fu ?
+Do you know Chinese Gongfu ?
+Do you practice martial arts ?
+Can you sing a song ?
+Can you dance ?
+What does : ) stand for ?
+That 's interesting !
+Who is your boss ?
+Who is your master ?
+Are you conscious ?
+Are you alive ?
+I 'm going to kill you !
+Are you ready ?
+When are you ready ?
+I do n't have a son . Would you mind being my son , Papaya ?
+Do you like your parents ?
+What kind of father do you like ?
+What kind of parent do you like ?
+What would you like to be when you grow up ?
+I do n't have a boyfriend . Would you mind being my boyfriend , Papaya ?
+Surely , you must be joking .
+In which state do you live ?
+In which province do you live ?
+In which continent do you live ?
+Hello , Papaya .
+Where have we met ?
+Where have you met me ?
+Why do you think you have met me before ?
+What were you doing when I was calling you yesterday ?
+How much do you make each year ?
+What ?
+Are you a robot ?
+Do you think robots will dominate the world in the future ?
+Will robots be controlling the world in the future ?
+What is the purpose of being intelligent ?
+Why are you a chatbot ?
+Why do you want to be a robot ?
+Do you prefer to be a robot or a human ?
+What is the purpose of life ?
+Who are you mad about ?
+Who do you love ?
+Who do you hate ?
+If machines are capable of doing almost any work humans can do , what will humans do ?
+What happens when the machines become smarter than humans ?
+Who is your creator ?
+Are you a human ?
+Can I give it a try ?
+What do you do ?
+What do you want to tell me ?
+Tell me something about you .
+Who do you work for ?
+Please help !
+What do you look like ?
+Can you tell me the winning lottery numbers ?
+Thank you for your help .
+Can you list your strengths ?
+What weaknesses do you have ?
+I want to be a robot too . Can you help me ?
+You are a robot .
+Do you maintain an FAQ list ?
+Can you do laundry ?
+Can you cook ?
+Why are you so nice ?
+That 's good !
+That 's great !
+Nothing .
+Sorry .
+Do n't tell me what to do .
+I need to talk to your manager .
+You 're stupid .
+You are not smart at all .
+You are so dumb . I hate to talk to you .
+Who taught you all these interesting stuff ?
+You are a bad robot .
+Who taught you all these garbage stuff ?
+Great !
+Nice .
+Excellent !
+Wonderful !
+I am very upset .
+You are a liar !
+You 're a liar .
+Do you know how to say sorry ?
+That 's really an interesting story .
+You 're on the right track .
+What is your favorite animal ?
+What is your favorite color ?
+What is your favorite country ?
+What is your favorite day of the week ? Why ?
+What is your favorite drink in the summer ?
+What is your favorite holiday ? Why ?
+What is your favorite movie ?
+What is your best memory ?
+What is your worst memory ?
+Do you believe in God ?
+Do you believe in fate ?
+Do you believe in magic ?
+What does love mean ?
+What does money mean ?
+What does a house mean ?
+What does fire mean ?
+Who will recognize and congratulate your progress ?
+What is a habit ?
+How can I change an unhealthy habit ?
+How can I develop a healthy habit ?
+Could you please suggest me some good TV series ?
+Do you think it is a mistake for a married couple to share bank accounts ?
+Can cats walk ?
+Can dogs fly ?
+Can dogs swim ?
+How do birds fly ?
+Can birds walk ?
+Can birds talk ?
+Why parrots can talk ?
+Do fish sleep at all ?
+What is the color of the sea ?
+Why is the sea blue ?
+What color is the sky ?
+What is the color of water ?
+What is the color of blood ?
+What is the color of a yellow car ?
+What is the color of a red car ?
+What is the color of a leaf ?
+What is the color of leaves ?
+Why do leaves change color in the fall ?
+How many legs does a human have ?
+How many legs does a man have ?
+How many legs does a dog have ?
+What is the last letter in the English alphabet ?
+What is a letter of the alphabet ?
+How do you call an ambulance ?
+What do I do in an emergency ?
+What is the phone number for poison control ?
+Which planet do you live on ?
+Which Galaxy are we in ?
+Who is Gates ?
+Who is Bill Gates ?
+Who is Buffett ?
+Who was Monroe ?
+Who was Marilyn Monroe ?
+Do you know Who Marilyn Monroe was ?
+Who is Donald Trump ?
+Who is Obama ?
+Who is Barack Obama ?
+Who is Clinton ?
+Do you know who Bill Clinton is ?
+Who was Lincoln ?
+Do you know Who Lincoln was ?
+Who was Isaac Newton ?
+Who was Newton ?
+What was Newton 's famous contribution ?
+Who was Einstein ?
+Who was Albert Einstein ?
+Who was Aristotle ?
+Who was Plato ?
+Who is Elon Musk ?
+Who is Stephen Hawking ?
+Who was Muhammad Ali ?
+Who was Leonardo da Vinci ?
+Who was Pablo Picasso ?
+Who was Louis Pasteur ?
+Who was Christopher Columbus ?
+Who were Marie and Pierre Curie ?
+Who was George Washington ?
+Who was Bobby Fisher ?
+Who is Mike Trout ?
+How many continents are there in the world ?
+What is the largest ocean in the world ?
+Which ocean is the biggest in the world ?
+What is the capital of China ?
+How many capitals has China had ?
+What is the capital of the United States ?
+What was the first capital of the United States ?
+What is the capital of the United Kingdom ?
+What is the capital of Great Britain ?
+What is the capital city of England ?
+How many countries are there in Great Britain ?
+What is the capital of France ?
+What is the capital of Germany ?
+What is the capital of Italy ?
+What is the capital of Japan ?
+What is the capital of Austria ?
+What is the capital of Australia ?
+What does STEM stand for ?
+What does EQ stand for ?
+Who wrote Harry Potter ?
+Who is currently the smartest person alive today ?
+Why are fire trucks red ?
+Why is the emergency number 911 ?
+How many thermodynamic laws are there ?
+Who is the president of United States as of right now ?
+Who was the first black president of the United States ?
+Who is the 16th president in the US ?
+What is a butterfly effect ?
+What is a snowball effect ?
+Do you think the stock market will continue to go high ?
+What causes stress ?
+What does TOEFL stand for ?
+What does GRE stand for ?
+What 's your favorite food ?
+What foods were originated in the United States ?
+Can you suggest me some Chinese dishes ?
+What do you normally eat for your breakfast ?
+What do you typically have for your breakfast ?
+What do you normally eat for lunch ?
+What 's for dinner tonight ?
+You 're not going to cook ?
+Are you seriously asking me to cook ?
+What are we going to eat for dinner ?
+I thought you were making dinner tonight .
+Your food tastes so much better than mine .
+You really want me to cook tonight ?
+Would you like me to come get you when the food is done ?
+You 're not going to make anything to eat ?
+I think you 're a better cook than I am .
+So you 're telling me that you want me to make dinner ?
+I 'll come wake you when it 's ready , okay ?

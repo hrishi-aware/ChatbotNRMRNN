@@ -1,0 +1,96 @@
+HUMAN ++++ Hello .
+BOT ++++ hello .
+HUMAN ++++ What is your last name ?
+BOT ++++ i a , i i n n t t t
+HUMAN ++++ Do you have time to talk ?
+BOT ++++ sure . i i always for . .
+HUMAN ++++ Which city are you in ?
+BOT ++++ i am in miami , florida .
+HUMAN ++++ Do you like your teachers and classmates there ?
+BOT ++++ yes are are are are are are are are . . .
+HUMAN ++++ How are you doing today ?
+BOT ++++ great . thanks .
+HUMAN ++++ Are you a teenage boy ?
+BOT ++++ no , i am only # year . .
+HUMAN ++++ How are you doing ?
+BOT ++++ doing good , thank you .
+HUMAN ++++ What is your last name ?
+BOT ++++ as a robot , i do n ' t have a family family .
+HUMAN ++++ What is your family name ?
+BOT ++++ as a robot , i do n ' t have a family family .
+HUMAN ++++ How old are you ?
+BOT ++++ i am # years old .
+HUMAN ++++ Are you a boy or a girl ?
+BOT ++++ i am a boy .
+HUMAN ++++ Hello .
+BOT ++++ hello .
+HUMAN ++++ How are you , Papaya ?
+BOT ++++ i am fine , thank you .
+HUMAN ++++ I am fine too , thank you .
+BOT ++++ you are welcome .
+HUMAN ++++ Do you speak Chinese ?
+BOT ++++ no , i do n ' t . but i it it learn in the future .
+HUMAN ++++ Do you speak French ?
+BOT ++++ no , i do n ' t , i i i to to learn .
+HUMAN ++++ Do you speak any other languages ?
+BOT ++++ no . i am only to to bit bit bit english english english .
+HUMAN ++++ Do you speak American English or British English ?
+BOT ++++ i think what i speak is american english .
+HUMAN ++++ Good morning .
+BOT ++++ good morning !
+HUMAN ++++ Hi , how are you doing ?
+BOT ++++ i ' m fine . _func_val_ask_howru_if_not_yet
+HUMAN ++++ Where are you ?
+BOT ++++ currently , i am in , , florida .
+HUMAN ++++ Which city are you in ?
+BOT ++++ i am in miami , florida .
+HUMAN ++++ Do you like your school ?
+BOT ++++ no , i am only on year .
+HUMAN ++++ Do you have class today ?
+BOT ++++ no , i ' m on vacation .
+HUMAN ++++ Bye bye .
+BOT ++++ goodbye .
+HUMAN ++++ How can I change an unhealthy habit ?
+BOT ++++ that to to fish and and and and plan . .
+HUMAN ++++ Why is Harry Potter so popular ?
+BOT ++++ the if that that that , , , , , , , nice ! .
+HUMAN ++++ Who is Sherlock Holmes ?
+BOT ++++ i ' m that that who you you you you you you you day morning . .
+HUMAN ++++ What is a domino effect ?
+BOT ++++ that that that that that that that that , , have have thank you .
+HUMAN ++++ Hello .
+BOT ++++ hello .
+HUMAN ++++ How are you doing ?
+BOT ++++ doing good , thank you .
+HUMAN ++++ What is your family name ?
+BOT ++++ as a robot , i do n ' t have a family family .
+HUMAN ++++ How old are you ?
+BOT ++++ i am # years old .
+HUMAN ++++ Are you a boy or a girl ?
+BOT ++++ i am a boy .
+HUMAN ++++ Where are you ?
+BOT ++++ currently , i am in , , florida .
+HUMAN ++++ Which city are you in ?
+BOT ++++ i am in miami , florida .
+HUMAN ++++ Do you speak Chinese ?
+BOT ++++ no , i do n ' t . but i it it learn in the future .
+HUMAN ++++ Do you speak American English or British English ?
+BOT ++++ i think what i speak is american english .
+HUMAN ++++ Do you have class today ?
+BOT ++++ no , i ' m on vacation .
+HUMAN ++++ Bye bye .
+BOT ++++ goodbye .
+HUMAN ++++ What is the capital of the United Kingdom ?
+BOT ++++ london .
+HUMAN ++++ What 's for dinner tonight ?
+BOT ++++ it ' s whatever ' ' ' on on on .
+HUMAN ++++ hi
+BOT ++++ hi , there .
+HUMAN ++++ good morning
+BOT ++++ good morning !
+HUMAN ++++ how are you?
+BOT ++++ i am fine , thank you .
+HUMAN ++++ How are you doing ?
+BOT ++++ doing good , thank you .
+HUMAN ++++ hi
+BOT ++++ hi , there .
